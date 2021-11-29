@@ -1,6 +1,12 @@
 # cart_without_firebase
 
 A new Flutter project.
+this project is not connected witht the Firebase 
+if you want to connect the firebase in this project 
+contact with tme.
+
+main: shamaunkabir111@gmail.com
+facebook: https://www.facebook.com/shamaunsk/
 
 ## Getting Started
 
